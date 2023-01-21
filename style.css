@@ -117,5 +117,28 @@ input:checked{
   button div{ 
     display: none;
   }
+  button {
+    border: 1px solid #8B5CF6;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    background-color: #18181B;
+    justify-content: center;
+    align-items: center;
+    padding: 16px 24px;
+    width: 80px;
+    height: 52px;
+    font-family: 'inter';
+    font-weight: 600;
+    font-size: 16px;
+    color: white;
+    
+  }
+  
+  span{
+align-items: center;
+padding-right: 0px;
+  
+  }
  
 }
